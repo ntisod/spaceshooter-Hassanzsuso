@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/../../../../../../Downloads/Sprites/ship.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/../../../../../God/mob.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/156949987383745956 (1).png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/156949987383745956 (2).png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/2525.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/background.jpg</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/background.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/bullet.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/coin.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/File.spritefont</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/hamburger2.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/ladda ned (3).png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/menu.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/menu/exit.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/menu/highscore.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/menu/start.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/mine.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/mob2.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/mobbb.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/shipp.jpg</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/shippgoingup.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/stone.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/tripod.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/Webp.net-resizeimage (5).png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/wooo.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/ye2 (1).png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/yee.png</File>
+    <File>C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/zamypic (2).png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>ship.png</File>
+    <File>mob1.png</File>
+    <File>LaxTripod.png</File>
+    <File>LaxBullet.png</File>
+    <File>GoldCoin.png</File>
+    <File>map_background.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Spritefont</File>
+    <File>hamburger.png</File>
+    <File>backugroundo.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>mob.png</File>
+    <File>LaxMineEnemy.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>mob2.png</File>
+    <File>background.png</File>
+    <File>laxmenu</File>
+    <File xsi:nil="true" />
+    <File>zamypic.png</File>
+  </DestFiles>
+</SourceFileCollection>

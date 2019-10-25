@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/background.png","C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/bin/Windows/background.xnb","TextureProcessor","Texture2DContent",3358,160085,0,2064501
+"C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/wooo.png","C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/bin/Windows/background.xnb","TextureProcessor","Texture2DContent",797236,3231445,0,154593
+"C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/zamypic (2).png","C:/Users/elev/Documents/GitHub/spaceshooter-Hassanzsuso/SpaceShooter/SpaceShooter/Content/bin/Windows/zamypic.xnb","TextureProcessor","Texture2DContent",71567,564085,0,0518482
